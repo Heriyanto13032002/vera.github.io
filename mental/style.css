@@ -1,0 +1,78 @@
+
+#back{
+	background-image : url(gmbr/bg1.jpg);
+	width: 1000;
+	margin-left: 210px;
+	height: 720px;
+	text-align: center;
+}
+a .button{
+	font-size: 20px;
+	outline: 2px solid black;
+	margin-left: 20px;
+}
+.button{
+	margin-top: 30px;
+	margin-bottom: 20px;
+	width: 150px;
+	font-size: 20px;
+	height: 50px;
+}
+#home{
+	text-align: center;
+	margin-top: 100px;
+	padding-top: 20px;
+	padding-left: 10px;
+}
+header {
+	margin: 30px auto;
+	margin-top: 60px;
+	background-color: pink;
+}
+
+.container {
+	margin: 30px auto;
+	text-align: center;
+
+}
+
+.row {
+	margin: 30px auto;
+	text-align: center;
+	min-height: 100%;
+	text-align: center;
+}
+
+.col-8 {
+	border: 1px solid black;
+	text-align: left;
+}
+
+.col-8 p{
+	font-family: Georgia; 
+	
+}
+
+.fitur {
+	border: 2px solid black;
+	margin: 30px 150px;
+}
+
+.fitur img{
+	margin: 30px auto;
+	text-align: center;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.gm{
+	outline: 2px solid black;
+}
+.gambar{
+	text-align: center;
+	width: auto;height: auto;
+	margin-left: 200px;
+}
+.gm{
+	margin-right: 50px;
+	margin-bottom: 20px;
+}

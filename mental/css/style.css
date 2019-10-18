@@ -1,0 +1,39 @@
+header {
+	margin: 30px auto;
+	margin-top: 60px;
+	background-color: pink;
+}
+
+.container {
+	margin: 30px auto;
+	text-align: center;
+
+}
+
+.row {
+	margin: 30px auto;
+	text-align: center;
+	min-height: 100%;
+}
+
+.col-8 {
+	border: 1px solid black;
+	text-align: left;
+}
+
+.col-8 p{
+	font-family: Georgia; 
+	
+}
+
+.fitur {
+	border: 2px solid black;
+	margin: 30px auto;
+}
+
+.fitur img{
+	margin: 30px auto;
+	text-align: center;
+	padding-left: 20px;
+	padding-right: 20px;
+}
